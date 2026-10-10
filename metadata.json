@@ -1,0 +1,8 @@
+{
+  "name": "Remix Urban Priority - Infrastructure Priority Engine",
+  "description": "AI-driven municipal infrastructure priority engine featuring Mapbox geospatial triage, transparent priority scoring algorithms, workforce and budget estimation, and live issue registration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
